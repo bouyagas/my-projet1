@@ -3,5 +3,5 @@
 #list,li{font-size: 25px; margin: 30px;background-color: #008000;}
 #aside,li{ font-size: 23px; display: inline; margin: 30px;background-color: #008000;border-bottom-left-radius:  2em;  }
 a:link,a:visited{color: #ffffff;text-decoration: none;}
-a:hoover,a:active{text-decoration: }
+a:hoover,a:active{text-decoration: underline;color: #800000;}
 
