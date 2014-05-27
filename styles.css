@@ -1,0 +1,7 @@
+#container{margin: 0 auto; width: 900px;}
+#sec{font-size: 24px; background: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8QcZAToawIXzSMe1MG0r1tZ39unjput8_swIX2KILgX5wZxVgvA');background-attachment: fixed; text-align: center;padding: 35px;}
+#list,li{font-size: 25px; margin: 30px;background-color: #008000;}
+#aside,li{ font-size: 23px; display: inline; margin: 30px;background-color: #008000;border-bottom-left-radius:  2em;  }
+a:link,a:visited{color: #ffffff;text-decoration: none;}
+a:hoover,a:active{text-decoration: }
+
