@@ -1,5 +1,5 @@
 #container{margin: 0 auto; width: 900px;}
-#sec{font-size: 24px; border:1px solid black; background: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8QcZAToawIXzSMe1MG0r1tZ39unjput8_swIX2KILgX5wZxVgvA');background-attachment: fixed; text-align: center;padding: 35px;}
+#sec{font-size: 24px; border:1px solid black; background: url('http://t3.gstatic.com/images?q=tbn:ANd9GcSLglSagOXOWzSoeWfM7rgMS4vlfaMPO00TX4-x6Oefmtg5mvOqIQ');background-attachment: fixed; text-align: center;padding: 35px;}
 #list,li{font-size: 25px; margin: 30px;background-color: #008000;}
 #aside,li{ font-size: 23px; display: inline; margin: 30px;background-color: #008000;border-bottom-left-radius:  2em; }
 a:link,a:visited{color: #ffffff;text-decoration: none;}
